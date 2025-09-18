@@ -21,7 +21,7 @@ function mifuncion(){
 
 
 function mifuncion2(){
-      let vc=0;
+      let vc=0;
       let mensaje = document.getElementById("me").value;
       respuesta = "";
       let salida = ""
